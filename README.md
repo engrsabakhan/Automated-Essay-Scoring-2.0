@@ -99,14 +99,16 @@ The goal of this work is to propose a publicly available AES system that improve
 ***
 
 🚀 Features
-
+<pre>
 ✔ Full AES pipeline (preprocessing → training → prediction)
 ✔ Multiple model comparisons
 ✔ Deep learning support (LSTM, BERT)
 ✔ Clean notebook + Python script
 ✔ Requirements.txt for easy setup
 ✔ MIT licensed
+</pre>
 
+***
 🛠️ Installation
 1️⃣ Clone the repository
 git clone https://github.com/YourUsername/Automated-Essay-Scoring.git
