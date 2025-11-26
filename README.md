@@ -1,5 +1,7 @@
-<div align="center">📝 Automated Essay Scoring (AES) – Kaggle Project</div>
-<p align="center"> <b>Machine Learning · NLP · Deep Learning · Kaggle Competition</b><br> <i>An end-to-end system for scoring essays automatically using ML & DL models</i> </p>
+<b>📝 Automated Essay Scoring (AES) – Kaggle Project</div</b>
+<b>Automated Essay Scoring (AES) is an intelligent system designed to evaluate written essays using machine learning and deep learning techniques. This project focuses on developing a reliable scoring model using the Kaggle AES dataset, applying modern NLP preprocessing, feature engineering, and state-of-the-art neural architectures.
+The goal is to create a scoring pipeline that performs consistently, reduces human bias, and delivers accurate, fast, and scalable evaluations of student writing.</b>
+***
 📚 Table of Contents
 
 📖 Overview
