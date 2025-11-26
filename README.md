@@ -109,25 +109,31 @@ The goal of this work is to propose a publicly available AES system that improve
 </pre>
 
 ***
-🛠️ Installation
+<b>🛠️ Installation</b>
+
 1️⃣ Clone the repository
-git clone https://github.com/YourUsername/Automated-Essay-Scoring.git
-cd Automated-Essay-Scoring
+
+<i>git clone https://github.com/YourUsername/Automated-Essay-Scoring.git
+cd Automated-Essay-Scoring</i>
 
 2️⃣ Install dependencies
-pip install -r requirements.txt
 
-📊 Usage
+<i>pip install -r requirements.txt</i>
+
+***
+<b>📊 Usage</b>
+
 Run Jupyter Notebook
 jupyter notebook
 
 
-Open file:
+<i>Open file:</i>
 Notebook/AES_model.ipynb
 
-Run Python Inference Script
+<i>Run Python Inference Script</i>
 python Notebook/AES_inference.py
 
+***
 🧹 Data Preprocessing
 
 The pipeline includes:
