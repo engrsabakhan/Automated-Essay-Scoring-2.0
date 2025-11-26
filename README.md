@@ -61,7 +61,9 @@ BERT	0.7806
 The goal of this work is to propose a publicly available AES system that improves teacher workflow efficiency and provides students with fast, objective feedback.
 ***
 
-📁 Repository Structure
+<b>📁 Repository Structure</b>
+<pre>
+
 ├── Dataset
 │   ├── train.csv
 │   ├── test.csv
@@ -77,6 +79,9 @@ The goal of this work is to propose a publicly available AES system that improve
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
+</pre>
+
+***
 
 🎯 Objectives
 
