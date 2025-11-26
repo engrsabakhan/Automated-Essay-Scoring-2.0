@@ -177,16 +177,18 @@ Used in Kaggle AES competitions to measure agreement between model predictions a
 
 Dataset contains:
 
-Essay text
+<i>Essay text
 
 Essay set ID
 
-Human-graded score
+Human-graded score</i>
 
 You must download the dataset from Kaggle:
-👉 Kaggle → Automated Essay Scoring Dataset
+<b>👉 Kaggle → Automated Essay Scoring Dataset</b>
 
-📚 References
+***
+
+<b>📚 References</b>
 
 Kaggle AES Competition
 
@@ -194,7 +196,8 @@ NLP Educational Research
 
 Included Research PDF in /References/
 
-📝 License
+***
+<b>📝 License</b>
 
 This project is licensed under the MIT License.
 See the LICENSE file.
