@@ -134,41 +134,46 @@ Notebook/AES_model.ipynb
 python Notebook/AES_inference.py
 
 ***
-🧹 Data Preprocessing
+<b>🧹 Data Preprocessing</b>
 
-The pipeline includes:
+<i>The pipeline includes:</i>
 
-Lowercasing
+1.Lowercasing
 
-Punctuation removal
+2.Punctuation removal
 
-Stopword removal
+3.Stopword removal
 
-Lemmatization
+4.Lemmatization
 
-Tokenization
+5.Tokenization
 
-Word & sentence statistics
+6.Word & sentence statistics
 
-Readability metrics
+7.Readability metrics
 
-TF-IDF feature extraction
+8.TF-IDF feature extraction
+***
+<b>🧠 Models Used</b>
 
-🧠 Models Used
-Model Type	Description
+<i>Model Type	Description
 Linear Regression	Baseline scoring model
 RandomForest / XGBoost / LGBM	Strong for tabular + text stats
 LSTM	Sequential deep learning model
-BERT	Transformer-based, best semantic understanding
-📈 Evaluation
+BERT	Transformer-based, best semantic understanding</i>
 
-Primary Metric:
+***
+
+<b>📈 Evaluation</b>
+
+<i>Primary Metric:</i>
 
 <div align="center">⭐ Quadratic Weighted Kappa (QWK)</div>
 
 Used in Kaggle AES competitions to measure agreement between model predictions and human graders.
 
-📂 Dataset
+***
+<b>📂 Dataset</b>
 
 Dataset contains:
 
