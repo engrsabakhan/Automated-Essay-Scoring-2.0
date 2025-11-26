@@ -36,10 +36,16 @@ The goal is to create a scoring pipeline that performs consistently, reduces hum
 </i>
 
 ***
+
+<b>📖 Overview</b>
+
 Automated Essay Scoring (AES) is transforming the way learning assessments are conducted by improving the speed, consistency, and fairness of scoring. Manual grading is slow and labor-intensive, especially in areas with limited educational resources. AES applies machine learning and NLP techniques to automate the scoring process.
 
 This project provides a comparative study of multiple AES models trained on one of the largest publicly accessible essay datasets aligned with modern educational standards.
 
+<i>
+  <pre>
+    
 Model Performance Summary
 Model	Cohen’s Kappa
 Linear Regression	0.6540
@@ -47,10 +53,13 @@ XGBoost	0.7100
 LightGBM (LGBM)	0.7210
 LSTM	0.7710
 BERT	0.7806
+</pre>
+</i>
 
-Deep learning models — especially LSTM and BERT — significantly outperform traditional machine learning methods in prediction accuracy and reproducibility.
+<b>Deep learning models<b> — especially <b>LSTM and BERT</b> — significantly outperform traditional machine learning methods in prediction accuracy and reproducibility.
 
 The goal of this work is to propose a publicly available AES system that improves teacher workflow efficiency and provides students with fast, objective feedback.
+***
 
 📁 Repository Structure
 ├── Dataset
