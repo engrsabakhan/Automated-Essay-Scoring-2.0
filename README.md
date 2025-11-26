@@ -85,7 +85,7 @@ The goal of this work is to propose a publicly available AES system that improve
 
 <b>🎯 Objectives</b>
 
-<i>
+
 1.Automate essay scoring using ML and NLP</br>
 
 2.Compare traditional and deep learning approaches
@@ -95,7 +95,8 @@ The goal of this work is to propose a publicly available AES system that improve
 4.Build train-ready and inference-ready scripts
 
 5.Improve feedback speed for students
-</i>
+
+***
 
 🚀 Features
 
