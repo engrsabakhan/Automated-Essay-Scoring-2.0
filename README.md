@@ -10,7 +10,6 @@ The goal is to create a scoring pipeline that performs consistently, reduces hum
   
 📖 Overview
 <br>
-
 📁 Repository Structure
 
 🎯 Objectives
