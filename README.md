@@ -184,7 +184,13 @@ Essay set ID
 Human-graded score</i>
 
 You must download the dataset from Kaggle:
-<b>👉 Kaggle → Automated Essay Scoring Dataset</b>
+<b>👉 Kaggle → Automated Essay Scoring Dataset(https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/data)</b>
+
+Size: 24,000 argumentative essays
+
+Score Range: 1 to 6
+
+![image](https://github.com/user-attachments/assets/6f296225-a68d-42a6-ac2c-81f9f96d2c80)
 
 ***
 
@@ -197,6 +203,11 @@ NLP Educational Research
 Included Research PDF in /References/
 
 ***
+  ### Scores on Kaggle Competition
+  ![image](https://github.com/user-attachments/assets/c3bf87d0-a5b6-4f3e-b471-1399eff84af3)
+
+  ***
+  
 <b>📝 License</b>
 
 This project is licensed under the MIT License.
