@@ -56,7 +56,7 @@ BERT	0.7806
 </pre>
 </i>
 
-<b>Deep learning models<b> — especially <b>LSTM and BERT</b> — significantly outperform traditional machine learning methods in prediction accuracy and reproducibility.
+<b>Deep learning models</b> — especially <b>LSTM and BERT</b> — significantly outperform traditional machine learning methods in prediction accuracy and reproducibility.
 
 The goal of this work is to propose a publicly available AES system that improves teacher workflow efficiency and provides students with fast, objective feedback.
 ***
