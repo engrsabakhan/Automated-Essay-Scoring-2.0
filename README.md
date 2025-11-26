@@ -9,6 +9,7 @@ The goal is to create a scoring pipeline that performs consistently, reduces hum
 <pre>
 📖 Overview
 
+
 📁 Repository Structure
 
 🎯 Objectives
@@ -31,9 +32,6 @@ The goal is to create a scoring pipeline that performs consistently, reduces hum
 
 📝 License
 
-✨ Author
-
-📖 Overview
 </pre>
 </i>
 Automated Essay Scoring (AES) is transforming the way learning assessments are conducted by improving the speed, consistency, and fairness of scoring. Manual grading is slow and labor-intensive, especially in areas with limited educational resources. AES applies machine learning and NLP techniques to automate the scoring process.
